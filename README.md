@@ -1,3 +1,3 @@
 # design-patterns
 
-Tracking my sample code from the course: "Programming Foundations: Design Patterns" by authors of Head First Design Patterns
+Tracking my sample code while studying "Programming Foundations: Design Patterns" course by Eric Freeman and Elisabeth Robson.
