@@ -6,6 +6,9 @@ Tracking my sample code while studying "Programming Foundations: Design Patterns
 
 ![Screenshot 2020-02-24 at 23 15 47](https://user-images.githubusercontent.com/40677903/75196532-80ef5e00-575c-11ea-8837-47aabc52426d.png)
 
+![Screenshot 2020-02-24 at 23 27 49](https://user-images.githubusercontent.com/40677903/75196940-4e923080-575d-11ea-8260-9589fd1a157a.png)
+
+
 ![Screenshot 2020-02-24 at 23 16 49](https://user-images.githubusercontent.com/40677903/75196541-8351b800-575c-11ea-9e69-0b645cca0a26.png)
 
 ![Screenshot 2020-02-24 at 23 24 44](https://user-images.githubusercontent.com/40677903/75196819-07a43b00-575d-11ea-8320-f208f764246b.png)
